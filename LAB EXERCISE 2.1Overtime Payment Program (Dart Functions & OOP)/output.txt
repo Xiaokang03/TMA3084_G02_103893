@@ -1,0 +1,2 @@
+PS C:\UNIMAS\SEM 5\TMA3084 Software Engineering Lab(G01)\TMA3084_103893_G02\LAB EXERCISE 2.1Overtime Payment Program (Dart Functions & OOP)> dart main.dart
+Total Salary = $5070.0 USD
